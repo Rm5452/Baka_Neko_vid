@@ -1,0 +1,53 @@
+# Third-Party Software Notices
+
+Baka_Neko_vid uses third-party software to provide some of its functionality.
+
+The third-party software listed below is not original software written by the author of Baka_Neko_vid. Each component remains subject to its own copyright and license terms.
+
+---
+
+## 7-Zip
+
+Baka_Neko_vid uses **7-Zip** to extract and install required files when the plugin is initialized.
+
+**Software:** 7-Zip
+**Author:** Igor Pavlov
+**Official Website:** https://www.7-zip.org/
+**License:** GNU LGPL
+**Copyright:** Copyright © 1999-2026 Igor Pavlov
+
+7-Zip is distributed under its own license. The license and copyright of 7-Zip remain with its respective copyright holder.
+
+For the complete 7-Zip license and source code, please refer to the official 7-Zip distribution and website.
+
+---
+
+## FFmpeg
+
+Baka_Neko_vid also uses **FFmpeg** for video processing and conversion.
+
+**Software:** FFmpeg
+**Official Website:** https://ffmpeg.org/
+
+FFmpeg is a separate third-party project and is distributed under the applicable FFmpeg license terms.
+
+The copyright and license of FFmpeg remain with the FFmpeg project and its respective contributors.
+
+Users must comply with the applicable FFmpeg license when using or redistributing FFmpeg with Baka_Neko_vid.
+
+---
+
+## Relationship to Baka_Neko_vid
+
+The inclusion of these third-party programs does not transfer ownership of those programs to the author of Baka_Neko_vid.
+
+Baka_Neko_vid is licensed separately under the **GNU General Public License v3.0 (GPL-3.0)**.
+
+Third-party software remains governed by its respective licenses.
+
+For the complete license terms of Baka_Neko_vid, see the `LICENSE` file included with this project.
+
+---
+
+Copyright © 2026 Marwan
+Baka_Neko_vid

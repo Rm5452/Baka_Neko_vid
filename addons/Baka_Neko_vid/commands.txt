@@ -1,0 +1,4 @@
+ffmpeg -i input.mp4 -c:v libtheora -q:v 7 -c:a libvorbis -q:a 5 output.ogv
+
+------------------------------------------------------------------------------------------------
+ffmpeg -i input.mp4 -c:v libvpx-vp9 -lossless 1 -c:a libopus output.webm
